@@ -7,11 +7,11 @@
     <remote name="ubuntu-touch-clover" fetch="https://github.com/ubuntu-touch-clover" revision="halium-9.0" />
 
     <!-- Device Tree -->
-    <project path="device/xiaomi/clover" name="halium_device_xiaomi_clover" remote="ubuntu-touch-clover" />
+    <project path="device/xiaomi/cactus" name="android_device_xiaomi_cactus" remote="tanyuanman666" />
 
     <!-- Kernel -->
-    <project path="kernel/xiaomi/clover" name="halium_kernel_xiaomi_clover" remote="ubuntu-touch-clover" />
+    <project path="kernel/xiaomi/cactus" name="handroid_kernel_xiaomi_mt6765" remote="tanyuanman666" />
 
     <!-- Proprietary/Vendor blobs -->
-    <project path="vendor/xiaomi/clover" name="halium_vendor_xiaomi_clover" remote="ubuntu-touch-clover" />
+    <project path="vendor/xiaomir" name="xiaomi" remote="tanyuanman666" />
 </manifest>
