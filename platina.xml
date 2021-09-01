@@ -7,7 +7,7 @@
     <remote name="tanyuanman666" fetch="https://github.com/tanyuanman666" revision="halium-9.0" />
 
     <!-- Device Tree -->
-    <project path="device/xiaomi/platina" name="device_xiaomi_platina" remote="tanyuanman666"  revision=""lineage-16.0/>
+    <project path="device/xiaomi/platina" name="device_xiaomi_platina" remote="tanyuanman666"  revision=""lineage-16.0"/>
 
     <!-- Kernel -->
     <project path="kernel/xiaomi/platina" name="ubports_kernel_xiaomi_platina" remote="tanyuanman666" />
